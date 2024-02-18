@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hafizaqibahmed98@gmail.com**
 
-- 🏆 Achievements: Divisional Star for Q3 in 2023 at Folio3
+- 🏆 Achievements: **Divisional Star for Q3 in 2023 at Folio3**
 
 - ⚡ Fun fact **I love to dance!**
 
