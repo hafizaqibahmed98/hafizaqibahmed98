@@ -1,7 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://github.com/hafizaqibahmed98)
 <h1 align="center">Hi 👋, I'm Hafiz Aqib Ahmed</h1>
 <h3 align="center">A passionate software engineer with expertise in full-stack development in building scalable web applications using React, JavaScript, TypeScript, Node.js and .NET.</h3>
-<img align="center" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRQSocHc8PdV2mhF_CjnykiIs7whgfpyWoHg&usqp=CAU">
 
 - 🌱 I’m currently developing expertise in **Artificial Intelligence and Machine Learning**
 
